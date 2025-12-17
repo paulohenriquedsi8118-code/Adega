@@ -1,0 +1,11 @@
+@Sistema.API_HostAddress = http://localhost:5104
+
+GET {{Sistema.API_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Sistema.API_HostAddress}}/todos/1
+Accept: application/json
+
+###

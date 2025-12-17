@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Sistema.API.Controllers.UsuariosController",
+    "Method": "Criar",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Sistema.Application.DTOs.CriarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

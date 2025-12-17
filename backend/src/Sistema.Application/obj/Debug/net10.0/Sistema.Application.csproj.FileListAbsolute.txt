@@ -1,0 +1,16 @@
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\bin\Debug\net10.0\Sistema.Application.deps.json
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\bin\Debug\net10.0\Sistema.Application.dll
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\bin\Debug\net10.0\Sistema.Application.pdb
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\bin\Debug\net10.0\Sistema.Domain.dll
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\bin\Debug\net10.0\Sistema.Domain.pdb
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.sourcelink.json
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema..4C1939BF.Up2Date
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.dll
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\refint\Sistema.Application.dll
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\Sistema.Application.pdb
+C:\Users\Paulo\Desktop\Projeto DeskTop\Adega\backend\src\Sistema.Application\obj\Debug\net10.0\ref\Sistema.Application.dll
